@@ -1,1 +1,1 @@
-# fast-api-opencv
+# fast-api-template
